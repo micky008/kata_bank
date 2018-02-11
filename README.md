@@ -29,8 +29,13 @@ l'objet Deposit et Withdrawal.
 
 J'ai implémenté le fait qu'il y a un découvert autorisé et un plafond maximum [par exemple sur un livret A].
 
+## Bonus 
+Si je devais utiliser une vrai BDD, je me serrai appuyé sur mon propre travail : DAOProject.
+C’est un ORM de mon cru. Bien sur il n’est pas fini, et les requêtes ne sont pas sécurisées, mais c’est un bon départ :)
+
 
 Merci.
+
 
 
 
